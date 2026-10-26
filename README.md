@@ -49,7 +49,10 @@ Machine-learning surrogate screening for heavy-metal contamination, with conform
 ## Experience
 
 **Deputy Director, Research and Publication Department**, Silicon River Student Branch  
-**Research Trainee**, Learnix Research Lab
+**Research Assistant**, Learnix Research Lab (previously Research Trainee)
+
+- Groundwater trace-metal screening, Bengal Basin: under the supervision of Prof. Deen Islam, Department of Irrigation and Water Management, Bangladesh Agricultural University
+- WasteNet, hierarchical multi-task waste classification: under the supervision of Dr. Ervin Gubin Moung, Faculty of Computing and Informatics, Universiti Malaysia Sabah
 
 ## Skills
 
