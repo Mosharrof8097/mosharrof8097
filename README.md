@@ -40,7 +40,7 @@ A study of visual grounding when a model answers questions by comparing a prior 
 **Undergraduate thesis: hallucination and recency bias in longitudinal 3D CT question answering.**
 Built a pipeline with patient-level splits, a data-leakage audit and baseline models (slice encoder with Qwen2.5-1.5B and LoRA).
 
-**EpiST-Former: dengue forecasting across 11 districts of Bangladesh.**
+**EpiST-Former: dengue forecasting across all 64 districts of Bangladesh.**
 Spatio-temporal forecasting model with baselines, ablations and significance tests. Manuscript in preparation.
 
 **Groundwater trace-metal screening, Bengal Basin.**
