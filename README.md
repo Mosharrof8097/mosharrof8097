@@ -48,6 +48,7 @@ Machine-learning surrogate screening for heavy-metal contamination, with conform
 
 ## Experience
 
+**Deputy Director, Research and Publication Department**, Silicon River Student Branch  
 **Research Trainee**, Learnix Research Lab
 
 ## Skills
