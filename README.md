@@ -24,10 +24,10 @@ BSc in Computer Science and Engineering, Mymensingh Engineering College (October
    ICCA 2026, Dhaka (Scopus-indexed) · *First author and presenter*
 
 2. **WasteNet: Hierarchical Multi-Task Deep Learning for Waste Classification**  
-   *International Journal of Environmental Science and Technology* (Springer Nature) · Submitted · *First author*
+   *International Journal of Environmental Science and Technology* (Springer Nature) · Under review · *First author*
 
 3. **RiceX-Net: Two-Stream BLIP and EfficientNet-B3 for Rice Leaf Disease Classification**  
-   *Discover Computing* (Springer Nature) · Submitted · *Second author* · 96.24% accuracy across 8 classes
+   *Discover Computing* (Springer Nature) · Under review · *Second author* · 96.24% accuracy across 8 classes
 
 ## Current research
 
